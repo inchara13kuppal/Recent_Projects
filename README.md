@@ -47,7 +47,6 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=inchara13kuppal&show_icons=true&theme=radical" alt="Inchara's GitHub Stats" height="165"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=inchara13kuppal&layout=compact&theme=radical" alt="Top Languages" height="165"/>
 </p>
 
