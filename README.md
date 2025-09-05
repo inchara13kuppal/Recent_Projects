@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF7F50&center=true&width=435&lines=Web+Developer;Open-Source+Lover;Aspiring+Software+Developer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF7F50&center=true&width=435&lines=Web+Developer;Aspiring+Software+Developer" alt="Typing SVG" />
   </a>
 </p>
 
@@ -16,7 +16,7 @@
 - 🌱 I’m currently diving deep into the **MERN stack** and exploring **Data Science**.
 - 🤝 I’m looking to collaborate on innovative **Open-Source AI/ML Projects**.
 - 📫 How to reach me: **incharakkuppal@gmail.com**
-- ⚡ **Fun Fact:** I am a dedicated NCC cadet, holding **A, B, and C certificates**, and served as the **General Secretary** of the Students Association in 2024.
+- ⚡ **Fun Fact:** I was a dedicated NCC cadet, holding **A, B, and C certificates**, and served as the **General Secretary** of the Students Association in 2024.
 
 ---
 
@@ -45,10 +45,6 @@
 ---
 
 ### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=inchara13kuppal&layout=compact&theme=radical" alt="Top Languages" height="165"/>
-</p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=inchara13kuppal&theme=radical" alt="GitHub Streak" />
