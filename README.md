@@ -25,7 +25,7 @@
 | Certification | Issuing Organization | Date | Credential ID |
 | :--- | :--- | :--- | :--- |
 | **Field Technician Networking and Storage (ELE/Q4606)** | Electronics Sector Skills Council Of India (ESSCI) | Jan 2025 | ESSCI-KT-24-25-127 |
-| **Cisco CCNA Routing and Switching** | Karnataka German Technical Training Institute | Jul 2024 | BNG - 11803 |
+| **Cisco CCNA Routing and Switching Training** | Karnataka German Technical Training Institute | Jul 2024 | BNG - 11803 |
 
 ---
 
